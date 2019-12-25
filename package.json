@@ -1,11 +1,11 @@
 {
-	"name": "kapian.io",
-	"version": "1.1.0",
+	"name": "knowledge",
+	"version": "1.0.0",
 	"description": "如何使用卡片进行内容创作?",
 	"main": "index.js",
 	"scripts": {
 		"docs:serve": "docsify serve ./docs",
-		"docs:publish": "gh-pages --repo git@github.com:hackdapp/kapian.io.git -u 'hackdapp <hackdapp@gmail.com>' --dist docs --dotfiles --message 'chore: Publish docs'",
+		"docs:publish": "gh-pages --repo git@github.com:hackdapp/knowledge.git -u 'hackdapp <hackdapp@gmail.com>' --dist docs --dotfiles --message 'chore: Publish docs'",
 		"release": "npm-run-all \"docs:publish {@}\" release:publish --",
 		"release:publish": "standard-version"
 	},
@@ -28,7 +28,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/hackdapp/kapian.io.git"
+		"url": "git+https://github.com/hackdapp/knowledge.git"
 	},
 	"keywords": [
 		"write",
@@ -38,9 +38,9 @@
 	"author": "hackdapp",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/hackdapp/kapian.io/issues"
+		"url": "https://github.com/hackdapp/knowledge/issues"
 	},
-	"homepage": "https://github.com/hackdapp/kapian.io#readme",
+	"homepage": "https://github.com/hackdapp/knowledge#readme",
 	"devDependencies": {
 		"@commitlint/cli": "^8.2.0",
 		"@commitlint/config-conventional": "^8.2.0",
