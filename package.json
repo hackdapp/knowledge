@@ -1,6 +1,6 @@
 {
 	"name": "knowledge",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "如何使用卡片进行内容创作?",
 	"main": "index.js",
 	"scripts": {
