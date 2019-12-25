@@ -1,26 +1,37 @@
-<!-- <p align="center">
-  <img alt="kapian.io" width="400px" src="https://hackdapp.github.io/kapian.io/assets/images/logo.png" />
-</p> -->
-<h2 align="center">卡片写作</h2>
+# [My Knowledge Wiki 📚](https://wiki.hackdapp.com)
 
-[![Build Status](https://travis-ci.org/hackdapp/kapian.io.svg?branch=master)](https://travis-ci.org/hackdapp/kapian.io.svg?branch=master)
+[![Build Status](https://travis-ci.org/hackdapp/knowledge.svg?branch=master)](https://travis-ci.org/hackdapp/knowledge.svg?branch=master)
 
-## 什么是卡片
+This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world.
 
-> 卡片创作: 用一张卡片，完成一次最小内容创作。
+If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
 
-## 卡片分类
+## Using the wiki well
 
-| 🚀 素材卡 | 写作卡      |
-| --------- | ----------- |
-| 🔥 术语卡 | ⚡️️ 灵感卡 |
-| 💎 人物卡 | 📼 标题卡   |
-| 反常识卡  | 开头卡      |
-| 故事卡    | 结尾卡      |
-| 行动卡    | 幽默卡      |
-| 金句卡    | 过渡卡      |
-| 案例卡    | 隐喻卡      |
+You can quickly search the contents of this wiki above or you can explore the tree view to the left.
 
-## 收录文章
+You can access [any entry](https://github.com/hackdapp/knowledge/blob/master/SUMMARY.md) from this wiki super fast using [Alfred My Mind](https://github.com/hackdapp/alfred-my-mind) workflow.
 
-- [打造基于印象笔记的私人知识系统](http://kapian.io/#/articles/build_card_system.md)
+Aside from this wiki, you can also explore [Learn Anything](ideas/learn-anything.md) for things that you can learn about.
+
+## Other things I wrote and shared
+
+I share my knowledge in longer form by [writing articles](sharing/my-articles.md) and making [YouTube videos](sharing/my-youtube.md).
+
+I also love [writing code](sharing/my-github.md) that solves various problems I have and I share it all on [GitHub](https://github.com/hackdapp).
+
+[Here](sharing/sharing.md) you can find all the things I made and shared thus far.
+
+## Make your own wiki
+
+You can view other similar to this, continuously updated wikis, [here](https://github.com/RichardLitt/meta-knowledge#readme).
+
+Don't be afraid to create one of your own and share what you know with the world.
+
+## Contributing
+
+If you found a mistake anywhere in this wiki, I would appreciate your help. You can quickly find any entry you wish to edit by [searching for the topic](https://github.com/hackdapp/knowledge/find/master) and adding your changes with a PR. GitBook also provides ability to open a GitHub page for any entry in this wiki.
+
+I also appreciate any [ideas you have](https://github.com/hackdapp/knowledge/issues/new) on how I can improve this wiki.
+
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](http://bit.ly/hackdapptweet)](https://twitter.com/hackdapp)
