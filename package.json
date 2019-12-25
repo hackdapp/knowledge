@@ -1,0 +1,56 @@
+{
+	"name": "kapian.io",
+	"version": "1.1.0",
+	"description": "如何使用卡片进行内容创作?",
+	"main": "index.js",
+	"scripts": {
+		"docs:serve": "docsify serve ./docs",
+		"docs:publish": "gh-pages --repo git@github.com:hackdapp/kapian.io.git -u 'hackdapp <hackdapp@gmail.com>' --dist docs --dotfiles --message 'chore: Publish docs'",
+		"release": "npm-run-all \"docs:publish {@}\" release:publish --",
+		"release:publish": "standard-version"
+	},
+	"prettier": {
+		"useTabs": true,
+		"singleQuote": true,
+		"bracketSpacing": false
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "lint-staged",
+			"commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+		}
+	},
+	"lint-staged": {
+		"*.{json,md,html,yml,css}": [
+			"prettier --ignore-path .eslintignore --write",
+			"git add"
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hackdapp/kapian.io.git"
+	},
+	"keywords": [
+		"write",
+		"card",
+		"creative"
+	],
+	"author": "hackdapp",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/hackdapp/kapian.io/issues"
+	},
+	"homepage": "https://github.com/hackdapp/kapian.io#readme",
+	"devDependencies": {
+		"@commitlint/cli": "^8.2.0",
+		"@commitlint/config-conventional": "^8.2.0",
+		"@commitlint/travis-cli": "^8.2.0",
+		"docsify-cli": "^4.4.0",
+		"gh-pages": "^2.1.1",
+		"husky": "^3.1.0",
+		"lint-staged": "^9.5.0",
+		"npm-run-all": "^4.1.5",
+		"prettier": "^1.19.1",
+		"standard-version": "^7.0.1"
+	}
+}
