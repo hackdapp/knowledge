@@ -34,4 +34,4 @@ If you found a mistake anywhere in this wiki, I would appreciate your help. You 
 
 I also appreciate any [ideas you have](https://github.com/hackdapp/knowledge/issues/new) on how I can improve this wiki.
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![](http://cdn.hackdapp.com/hackdapp-twitter-1.png)](https://twitter.com/hackdapp)
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![](http://cdn.hackdapp.com/Untitled.png)](https://twitter.com/hackdapp)
