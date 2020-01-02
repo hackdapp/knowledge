@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/hackdapp/knowledge.svg?branch=master)](https://travis-ci.org/hackdapp/knowledge.svg?branch=master)
 
-This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world.
+This is my personal wiki where I share the experience about work、study and life.
 
 If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
 
@@ -30,7 +30,7 @@ Don't be afraid to create one of your own and share what you know with the world
 
 ## Contributing
 
-If you found a mistake anywhere in this wiki, I would appreciate your help. You can quickly find any entry you wish to edit by [searching for the topic](https://github.com/hackdapp/knowledge/find/master) and adding your changes with a PR. GitBook also provides ability to open a GitHub page for any entry in this wiki.
+If you found a mistake anywhere in this wiki, I would appreciate your help. You can quickly find any entry you wish to edit by [searching for the topic](https://github.com/hackdapp/knowledge/find/master) and adding your changes with a PR.
 
 I also appreciate any [ideas you have](https://github.com/hackdapp/knowledge/issues/new) on how I can improve this wiki.
 

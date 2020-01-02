@@ -19,3 +19,4 @@ dist
 .vscode/
 .history
 .history/*
+yarn.lock

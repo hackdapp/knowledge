@@ -1,8 +1,4 @@
 - [Introduction](README.md)
-- [Meta](meta/meta.md)
-- [Sharing](sharing/sharing.md)
-- [Mac](mac/software.md)
-- [iOS]()
 - [Looking back](looking-back/looking-back.md)
 - [Contributing](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
