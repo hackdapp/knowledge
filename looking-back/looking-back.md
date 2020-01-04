@@ -30,13 +30,13 @@ I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Ins
 - [weekly-14W](looking-back/2019/20190407_weekly_14.md) -
 - [weekly-13W](looking-back/2019/20190331_weekly_13.md) -
 - [weekly-12W](looking-back/2019/20190324_weekly_12.md) -
-- [weekly-11W](looking-back/2019/20190317_weekly_11.md) -
-- [weekly-10W](looking-back/2019/20190310_weekly_10.md) -
-- [weekly-09W](looking-back/2019/20190303_weekly_09.md) -
-- [weekly-08W](looking-back/2019/20190224_weekly_08.md) -
-- [weekly-07W](looking-back/2019/20190217_weekly_07.md) -
-- [weekly-06W](looking-back/2019/20190210_weekly_06.md) -
-- [weekly-05W](looking-back/2019/20190203_weekly_05.md) -
+- [weekly-11W](looking-back/2019/20190317_weekly_11.md) - OKR 模板分享
+- [weekly-10W](looking-back/2019/20190310_weekly_10.md) - 跳出思维牢笼
+- [weekly-09W](looking-back/2019/20190303_weekly_09.md) - 自学与组块的奥秘所在
+- [weekly-08W](looking-back/2019/20190224_weekly_08.md) - 构建完整知识架构
+- [weekly-07W](looking-back/2019/20190217_weekly_07.md) - 持续更新的价值
+- [weekly-06W](looking-back/2019/20190210_weekly_06.md) - 在反思中获取成长
+- [weekly-05W](looking-back/2019/20190203_weekly_05.md) - 越是十万火急的事情就越要冷静对待
 - [weekly-04W](looking-back/2019/20190127_weekly_04.md) - optimize the work process
 - [weekly-03W](looking-back/2019/20190120_weekly_03.md) - think about online products
 - [weekly-02W](looking-back/2019/20190113_weekly_02.md) - how to become a master of speech
