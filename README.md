@@ -1,6 +1,6 @@
 # [My Knowledge Wiki 📚](https://wiki.hackdapp.com)
 
-[![Build Status](https://travis-ci.org/hackdapp/knowledge.svg?branch=master)](https://travis-ci.org/hackdapp/knowledge.svg?branch=master)
+[![Build Status](https://travis-ci.org/hackdapp/knowledge.svg?branch=master)](https://travis-ci.org/hackdapp/knowledge.svg?branch=master)[![npm version](https://badge.fury.io/js/docsify.svg)](https://badge.fury.io/js/docsify)
 
 This is my personal wiki where I share the experience about work、study and life.
 
