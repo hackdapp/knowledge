@@ -1,10 +1,7 @@
-# 技术
+# 技术文档
 
 ## vue
 
 ## nodejs
 
-
 ## 算法
-- https://draveness.me/consensus
----
