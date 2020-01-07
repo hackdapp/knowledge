@@ -29,7 +29,7 @@ I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Ins
 
 ### 学习周报
 
-- [Weekly-01W](2020/weekly_01.md) - 明确目标，持续行动投入
+- [Weekly-01W](looking-back/2020/weekly_01.md) - 明确目标，持续行动投入
 
 ## 2019
 
