@@ -1,0 +1,2 @@
+- [Habit Scorecard](https://s3.amazonaws.com/kajabi-storefronts-production/sites/47366/themes/887535/downloads/s3kIRCdZS2uMmRlSrhSS_Habit_Inventory_Scorecard.pdf)
+- [TextExpander](templates/textexpander.md)
