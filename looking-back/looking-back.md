@@ -4,47 +4,18 @@ I want to share my journey in life both for myself and other people who might fi
 
 I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Instagram](https://instagram.com/hackdapp).
 
-## 2020
+## 2020-[Yearly](looking-back/2020/yearly_plan.md)
 
----
-
-> 自律（习惯养成）、创新效率（百倍好）、强执行力（四象限原则）
-
-### 年度目标
-
-- [ ] 完成卡片产品，种子用户 50 人，年度总用户 500 人
-- [ ] 制作并录制一门技术课程
-- [ ] 阅读书籍
-  - [ ] <<西联大国文课>>
-  - [ ] <<设计中的设计>>
-  - [ ] <<英语语法思维>>
-  - [ ] <<稀缺>>
-  - [ ] <<语法俱乐部>>
-- [ ] 打造个人矩阵（视频+商店+营销+IP）
-
-### 素质培养
-
-- [ ] 思维系统
-- [ ] 写作系统
-
-### 学习周报
+> 自律（习惯养成）、创新效率（百倍好）、强执行力（四象限原则）- 日拱一卒，每日做功。
 
 - [Weekly-01W](looking-back/2020/weekly_01.md) - 明确目标，持续行动投入
 - [Weekly-02W](looking-back/2020/weekly_02.md) - 做个早起的小能熊 🐻️
 - [Weekly-03W](looking-back/2020/weekly_03.md) - 日拱一卒，每日做功
 - [Weekly-04W](looking-back/2020/weekly_04.md) - 少一点酝酿，多一点行动
 
-## 2019
-
 ---
 
-### 年度目标
-
-- none
-
-### 素质培养
-
-- none
+## 2019
 
 ### 学习周报
 
