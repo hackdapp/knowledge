@@ -31,7 +31,8 @@ I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Ins
 
 - [Weekly-01W](looking-back/2020/weekly_01.md) - 明确目标，持续行动投入
 - [Weekly-02W](looking-back/2020/weekly_02.md) - 做个早起的小能熊 🐻️
--
+- [Weekly-03W](looking-back/2020/weekly_03.md) - 日拱一卒，每日做功
+- [Weekly-04W](looking-back/2020/weekly_04.md) - 少一点酝酿，多一点行动
 
 ## 2019
 

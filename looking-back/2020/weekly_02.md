@@ -4,10 +4,10 @@
 
 ## ReadList
 
-- [ ] Version Badge for npm, RubyGems, PyPI, Bower and other packages
-- [ ] Affren.com 实时更新国外 Affiliate Mareting 和 Media Buy 教程 - Powered by PHPHub
-- [ ] 比特币白皮书：一种点对点的电子现金系统 | 巴比特
-- [ ] Pocketmod: The Free Recyclable Personal
+- [x] Version Badge for npm, RubyGems, PyPI, Bower and other packages
+- [x] Affren.com 实时更新国外 Affiliate Mareting 和 Media Buy 教程 - Powered by PHPHub
+- [x] 比特币白皮书：一种点对点的电子现金系统 | 巴比特
+- [x] Pocketmod: The Free Recyclable Personal
 
 ## Review
 
@@ -16,7 +16,7 @@
 - [x] 英语不定词 vs 现在分词等
 - [x] 每日日检清单
 - [x] 使用 A Time Logger 分类统计自己的学习与开发投入
-- [ ] 每日早起 X 次数
+- [x] 每日早起 X 次数
 
 ### 2. Thinking
 
@@ -32,9 +32,9 @@
 
 ### 4. JustDoIt
 
-- [ ] 如何赚钱？开扩思路？
-- [ ] 坚持早起，持续精力投放长期有价值的事情？
-- [ ] 阅读语法书籍，争取 2 个月读完 2 遍 （2 本语法书籍）
+- [x] 如何赚钱？开扩思路？
+- [x] 坚持早起，持续精力投放长期有价值的事情？
+- [x] 阅读语法书籍，争取 2 个月读完 2 遍 （2 本语法书籍）
 
 ## Summary
 
