@@ -1,19 +1,16 @@
 - [Introduction](README.md)
-- [Design & Code]()
-  - [Landing]()
-  - [Plugin](tools/readme.md)
-- [Products]
-  - [kapian.io]()
-  - [note2site.io]()
-  - [基于 EOS 的去中心化交易所]()
-- [OS]
+- Design & Code
+  - [Tools](tools/readme.md)
+- Products
+  - kapian.io
+  - note2site.io
+  - learneos
+- Mac&iPhone
   - [Template](templates/readme.md)
-- [Tech]()
-  - [Go]()
-  - [Java]()
-  - [Algorithm]()
-- [Hardware]()
-- [Vlog]()
+- Technology
+  - [Algorithm](algorithm/readme.md)
+- [Hardware](hardware/readme.md)
+- [Vlog](vlog/readme.md)
 - [Looking back](looking-back/looking-back.md)
 - [Contributing](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
