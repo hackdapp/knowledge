@@ -14,6 +14,7 @@ I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Ins
 - [Weekly-04W](looking-back/2020/weekly_04.md) - 少一点酝酿，多一点行动
 - [Weekly-05W](looking-back/2020/weekly_05.md) - 读万卷书＜行万里路＜阅人无数＜名师指路
 - [Weekly-06W](looking-back/2020/weekly_06.md) - 坚持写日记的秘诀是永远别把它变成不得不做的工作
+- [Weekly-07W](looking-back/2020/weekly_07.md) - 没有成长，那就退回去了，变成"温饱生意"了
 
 ---
 
