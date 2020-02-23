@@ -14,6 +14,7 @@
   - [Algorithm](algorithm/readme.md)
 - [Hardware](hardware/readme.md)
 - [Vlog](vlog/readme.md)
+- [Tools](tools/readme.md)
 - [Looking back](looking-back/looking-back.md)
 - [Contributing](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
