@@ -1,7 +1,20 @@
-# 产品工具集
+# Tools
 
-## 1. [Add a Shopping Cart to Any Website in Minutes - Snipcart](https://snipcart.com/)
+## 录制教程
 
-![](http://cdn.hackdapp.com/2020-01-21-105808.jpg)
+- Google Doc：撰写脚本
+- Blue Yeti：录音（硬件）
+- Audacity：录音和音频剪辑（软件）
+- Wacom：数位板，用于画图演示（硬件）
+- SketchBook：搭配 Wacom，用于画图演示（软件）
+- ScreenFlow：录屏+后期
+- IDEA IntelliJ：Coding
 
-[Demo](https://snipcart-hexo.netlify.com/#!/)
+## Mac 系统加强
+
+- Alfred
+- Surge
+- Hammerspoon
+- Hazel
+- Jitouch
+- Bartender
