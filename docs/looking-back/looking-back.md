@@ -16,6 +16,7 @@ I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Ins
 - [Weekly-06W](looking-back/2020/weekly_06.md) - 坚持写日记的秘诀是永远别把它变成不得不做的工作
 - [Weekly-07W](looking-back/2020/weekly_07.md) - 没有成长，那就退回去了，变成"温饱生意"了
 - [Weekly-08W](looking-back/2020/weekly_08.md) - 找到那个一想起来就让你兴奋不已的活着的理由
+- [Weekly-12W](looking-back/2020/weekly_12.md) - 恐慌一旦意识到自身，便成为焦虑。 ——海德格尔
 
 ---
 
