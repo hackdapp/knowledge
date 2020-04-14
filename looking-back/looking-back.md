@@ -19,6 +19,7 @@ I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Ins
 - [Weekly-12W](looking-back/2020/weekly_12.md) - 恐慌一旦意识到自身，便成为焦虑。 ——海德格尔
 - [Weekly-13W](looking-back/2020/weekly_13.md) - 大部分在头脑中的东西并不一定是那么清晰，反而写出来的时候它会变得清楚很多
 - [Weekly-14W](looking-back/2020/weekly_14.md) - 通过季度复盘，及时纠偏
+- [Weekly-15W](looking-back/2020/weekly_15.md) - 知识就是力量，但只有为你所用才能体现力量
 
 ---
 
