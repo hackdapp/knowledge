@@ -4,6 +4,8 @@
   - [计划手册](meta/review_sheet.md)
 - Design & Code
   - [Tools](tools/readme.md)
+- 产品设计
+  - [如何画产品架构图](articles/how2arch.md)
 - Products
   - kapian.io
   - note2site.io
