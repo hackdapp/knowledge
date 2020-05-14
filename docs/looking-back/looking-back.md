@@ -20,6 +20,10 @@ I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Ins
 - [Weekly-13W](looking-back/2020/weekly_13.md) - 大部分在头脑中的东西并不一定是那么清晰，反而写出来的时候它会变得清楚很多
 - [Weekly-14W](looking-back/2020/weekly_14.md) - 通过季度复盘，及时纠偏
 - [Weekly-15W](looking-back/2020/weekly_15.md) - 知识就是力量，但只有为你所用才能体现力量
+- [Weekly-16W](looking-back/2020/weekly_16.md) - 产品经理之养成计划
+- [Weekly-17W](looking-back/2020/weekly_17.md) -
+- [Weekly-18W](looking-back/2020/weekly_18.md) - 产中设计之 Anki 工具
+- [Weekly-19W](looking-back/2020/weekly_19.md) - 整理 Inbox 以及恢复心态
 
 ---
 
