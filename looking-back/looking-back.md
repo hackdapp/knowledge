@@ -25,6 +25,7 @@ I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Ins
 - [Weekly-18W](looking-back/2020/weekly_18.md) - 产中设计之 Anki 工具
 - [Weekly-19W](looking-back/2020/weekly_19.md) - 整理 Inbox 以及恢复心态
 - [Weekly-20W](looking-back/2020/weekly_20.md) - 文字锻炼&观点表达
+- [Weekly-21W](looking-back/2020/weekly_21.md) - 减少目标强化做到
 
 ---
 
