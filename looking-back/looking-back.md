@@ -28,6 +28,7 @@ I share most everything I do on [Twitter](https://twitter.com/hackdapp) and [Ins
 - [Weekly-21W](looking-back/2020/weekly_21.md) - 减少目标强化做到
 - [Weekly-23W](looking-back/2020/weekly_23.md) - 双向索引知识系统
 - [Weekly-24W](looking-back/2020/weekly_24.md) - 感受成长的力量
+- [Weekly-25W](looking-back/2020/weekly_25.md) - 保重身体，生活才是根本
 
 ---
 
